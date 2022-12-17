@@ -8,11 +8,11 @@ body{
     display:flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100vh;
+    height: 10vh;
     min-height: 600px;
     background-image: url(../img/background.png);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     /*border: 1px solid red;*/
 
 }
